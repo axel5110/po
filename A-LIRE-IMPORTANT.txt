@@ -1,0 +1,11 @@
+SUPPRIME LES ANCIENS FICHIERS GITHUB AVANT D'IMPORTER CE ZIP.
+
+Le log indique que Cloudflare lit 1954 fichiers.
+Ce ZIP contient très peu de fichiers.
+
+Il ne faut plus avoir :
+_worker.js
+functions/
+node_modules/
+anciens dossiers carburio-site...
+anciens ZIP...
